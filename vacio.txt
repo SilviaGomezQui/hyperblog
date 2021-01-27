@@ -6,4 +6,4 @@ Esto es otra prueba con los commits
 
 esta estudiando para programar
 
-esta realizando pruebas con git
+esta realizando pruebas con plazti
